@@ -1,11 +1,6 @@
-Helo, Im OESdyt69 (oscar)
-I’m interested in learning a code of some sort
-,I’m currently learning nothing interesting
-,I’m looking to collaborate on nothing.
+Hello, I'm OESdyt69 (Oscar).
 
-How to reach me, don't
-
-<!---
-OESdyt69/OESdyt69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student in the UK and I want to learn to code.
+I like men.
+I enjoy various sports such as rugby, hockey, tennis, basketball and badminton.
+I also enjoy playing Valorant and Overwatch with friends.
